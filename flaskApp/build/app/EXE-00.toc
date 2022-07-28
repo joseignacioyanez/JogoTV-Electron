@@ -1,468 +1,277 @@
-('/Users/joseignacio/Library/CloudStorage/OneDrive-UNIVERSIDADDELASFUERZASARMADASESPE/ESPE/Semestre '
- '6/Interfaces y Multimedia/Actividades/Actividad '
- '3/Codigo/Electron/jogotv/flaskApp/dist/app',
+('C:\\Users\\nsole\\Desktop\\electron '
+ 'jogotv\\JogoTV-Electron\\flaskApp\\dist\\app.exe',
  False,
  False,
  False,
+ 'C:\\Users\\nsole\\AppData\\Roaming\\Python\\Python310\\site-packages\\PyInstaller\\bootloader\\images\\icon-windowed.ico',
  None,
- None,
  False,
  False,
- None,
+ '<?xml version="1.0" encoding="UTF-8" standalone="yes"?><assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0"><assemblyIdentity type="win32" name="app" processorArchitecture="amd64" version="1.0.0.0"/><trustInfo xmlns="urn:schemas-microsoft-com:asm.v3"><security><requestedPrivileges><requestedExecutionLevel level="asInvoker" uiAccess="false"/></requestedPrivileges></security></trustInfo><dependency><dependentAssembly><assemblyIdentity type="win32" name="Microsoft.Windows.Common-Controls" language="*" processorArchitecture="*" version="6.0.0.0" publicKeyToken="6595b64144ccf1df"/></dependentAssembly></dependency><compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1"><application><supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}"/><supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/><supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}"/><supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}"/><supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}"/></application></compatibility><application xmlns="urn:schemas-microsoft-com:asm.v3"><windowsSettings><longPathAware xmlns="http://schemas.microsoft.com/SMI/2016/WindowsSettings">true</longPathAware></windowsSettings></application></assembly>',
  True,
  True,
  False,
- 'x86_64',
  None,
  None,
- '/Users/joseignacio/Library/CloudStorage/OneDrive-UNIVERSIDADDELASFUERZASARMADASESPE/ESPE/Semestre '
- '6/Interfaces y Multimedia/Actividades/Actividad '
- '3/Codigo/Electron/jogotv/flaskApp/build/app/app.pkg',
+ None,
+ 'C:\\Users\\nsole\\Desktop\\electron '
+ 'jogotv\\JogoTV-Electron\\flaskApp\\build\\app\\app.pkg',
  [('PYZ-00.pyz',
-   '/Users/joseignacio/Library/CloudStorage/OneDrive-UNIVERSIDADDELASFUERZASARMADASESPE/ESPE/Semestre '
-   '6/Interfaces y Multimedia/Actividades/Actividad '
-   '3/Codigo/Electron/jogotv/flaskApp/build/app/PYZ-00.pyz',
+   'C:\\Users\\nsole\\Desktop\\electron '
+   'jogotv\\JogoTV-Electron\\flaskApp\\build\\app\\PYZ-00.pyz',
    'PYZ'),
-  ('lib-dynload/_struct',
-   '/Users/joseignacio/.pyenv/versions/3.10.1/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_struct.cpython-310-darwin.so',
-   'EXTENSION'),
-  ('lib-dynload/zlib',
-   '/Users/joseignacio/.pyenv/versions/3.10.1/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/zlib.cpython-310-darwin.so',
-   'EXTENSION'),
   ('struct',
-   '/Users/joseignacio/Library/CloudStorage/OneDrive-UNIVERSIDADDELASFUERZASARMADASESPE/ESPE/Semestre '
-   '6/Interfaces y Multimedia/Actividades/Actividad '
-   '3/Codigo/Electron/jogotv/flaskApp/build/app/localpycos/struct.pyo',
+   'C:\\Users\\nsole\\Desktop\\electron '
+   'jogotv\\JogoTV-Electron\\flaskApp\\build\\app\\localpycos\\struct.pyo',
    'PYMODULE'),
   ('pyimod01_os_path',
-   '/Users/joseignacio/Library/Python/3.10/lib/python/site-packages/PyInstaller/loader/pyimod01_os_path.pyc',
+   'C:\\Users\\nsole\\AppData\\Roaming\\Python\\Python310\\site-packages\\PyInstaller\\loader\\pyimod01_os_path.pyc',
    'PYMODULE'),
   ('pyimod02_archive',
-   '/Users/joseignacio/Library/Python/3.10/lib/python/site-packages/PyInstaller/loader/pyimod02_archive.pyc',
+   'C:\\Users\\nsole\\AppData\\Roaming\\Python\\Python310\\site-packages\\PyInstaller\\loader\\pyimod02_archive.pyc',
    'PYMODULE'),
   ('pyimod03_importers',
-   '/Users/joseignacio/Library/Python/3.10/lib/python/site-packages/PyInstaller/loader/pyimod03_importers.pyc',
+   'C:\\Users\\nsole\\AppData\\Roaming\\Python\\Python310\\site-packages\\PyInstaller\\loader\\pyimod03_importers.pyc',
    'PYMODULE'),
   ('pyimod04_ctypes',
-   '/Users/joseignacio/Library/Python/3.10/lib/python/site-packages/PyInstaller/loader/pyimod04_ctypes.pyc',
+   'C:\\Users\\nsole\\AppData\\Roaming\\Python\\Python310\\site-packages\\PyInstaller\\loader\\pyimod04_ctypes.pyc',
    'PYMODULE'),
   ('pyiboot01_bootstrap',
-   '/Users/joseignacio/Library/Python/3.10/lib/python/site-packages/PyInstaller/loader/pyiboot01_bootstrap.py',
+   'C:\\Users\\nsole\\AppData\\Roaming\\Python\\Python310\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
    'PYSOURCE'),
   ('pyi_rth_inspect',
-   '/Users/joseignacio/Library/Python/3.10/lib/python/site-packages/PyInstaller/hooks/rthooks/pyi_rth_inspect.py',
+   'C:\\Users\\nsole\\AppData\\Roaming\\Python\\Python310\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
    'PYSOURCE'),
   ('pyi_rth_subprocess',
-   '/Users/joseignacio/Library/Python/3.10/lib/python/site-packages/PyInstaller/hooks/rthooks/pyi_rth_subprocess.py',
+   'C:\\Users\\nsole\\AppData\\Roaming\\Python\\Python310\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_subprocess.py',
    'PYSOURCE'),
   ('pyi_rth_pkgutil',
-   '/Users/joseignacio/Library/Python/3.10/lib/python/site-packages/PyInstaller/hooks/rthooks/pyi_rth_pkgutil.py',
+   'C:\\Users\\nsole\\AppData\\Roaming\\Python\\Python310\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
    'PYSOURCE'),
   ('pyi_rth_multiprocessing',
-   '/Users/joseignacio/Library/Python/3.10/lib/python/site-packages/PyInstaller/hooks/rthooks/pyi_rth_multiprocessing.py',
+   'C:\\Users\\nsole\\AppData\\Roaming\\Python\\Python310\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
    'PYSOURCE'),
   ('app',
-   '/Users/joseignacio/Library/CloudStorage/OneDrive-UNIVERSIDADDELASFUERZASARMADASESPE/ESPE/Semestre '
-   '6/Interfaces y Multimedia/Actividades/Actividad '
-   '3/Codigo/Electron/jogotv/flaskApp/app.py',
+   'C:\\Users\\nsole\\Desktop\\electron '
+   'jogotv\\JogoTV-Electron\\flaskApp\\app.py',
    'PYSOURCE'),
-  ('Python',
-   '/Users/joseignacio/.pyenv/versions/3.10.1/Library/Frameworks/Python.framework/Versions/3.10/Python',
+  ('python310.dll', 'C:\\Program Files\\Python310\\python310.dll', 'BINARY'),
+  ('VCRUNTIME140.dll',
+   'C:\\Program Files\\Python310\\VCRUNTIME140.dll',
    'BINARY'),
-  ('libintl.8.dylib', '/usr/local/opt/gettext/lib/libintl.8.dylib', 'BINARY'),
-  ('lib-dynload/_posixshmem',
-   '/Users/joseignacio/.pyenv/versions/3.10.1/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_posixshmem.cpython-310-darwin.so',
+  ('_multiprocessing',
+   'C:\\Program Files\\Python310\\DLLs\\_multiprocessing.pyd',
    'EXTENSION'),
-  ('lib-dynload/_multiprocessing',
-   '/Users/joseignacio/.pyenv/versions/3.10.1/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_multiprocessing.cpython-310-darwin.so',
+  ('_decimal', 'C:\\Program Files\\Python310\\DLLs\\_decimal.pyd', 'EXTENSION'),
+  ('_hashlib', 'C:\\Program Files\\Python310\\DLLs\\_hashlib.pyd', 'EXTENSION'),
+  ('unicodedata',
+   'C:\\Program Files\\Python310\\DLLs\\unicodedata.pyd',
    'EXTENSION'),
-  ('lib-dynload/_datetime',
-   '/Users/joseignacio/.pyenv/versions/3.10.1/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_datetime.cpython-310-darwin.so',
+  ('select', 'C:\\Program Files\\Python310\\DLLs\\select.pyd', 'EXTENSION'),
+  ('_socket', 'C:\\Program Files\\Python310\\DLLs\\_socket.pyd', 'EXTENSION'),
+  ('_lzma', 'C:\\Program Files\\Python310\\DLLs\\_lzma.pyd', 'EXTENSION'),
+  ('_bz2', 'C:\\Program Files\\Python310\\DLLs\\_bz2.pyd', 'EXTENSION'),
+  ('pyexpat', 'C:\\Program Files\\Python310\\DLLs\\pyexpat.pyd', 'EXTENSION'),
+  ('_ssl', 'C:\\Program Files\\Python310\\DLLs\\_ssl.pyd', 'EXTENSION'),
+  ('_ctypes', 'C:\\Program Files\\Python310\\DLLs\\_ctypes.pyd', 'EXTENSION'),
+  ('_queue', 'C:\\Program Files\\Python310\\DLLs\\_queue.pyd', 'EXTENSION'),
+  ('_uuid', 'C:\\Program Files\\Python310\\DLLs\\_uuid.pyd', 'EXTENSION'),
+  ('_overlapped',
+   'C:\\Program Files\\Python310\\DLLs\\_overlapped.pyd',
    'EXTENSION'),
-  ('lib-dynload/math',
-   '/Users/joseignacio/.pyenv/versions/3.10.1/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/math.cpython-310-darwin.so',
-   'EXTENSION'),
-  ('lib-dynload/_statistics',
-   '/Users/joseignacio/.pyenv/versions/3.10.1/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_statistics.cpython-310-darwin.so',
-   'EXTENSION'),
-  ('lib-dynload/_contextvars',
-   '/Users/joseignacio/.pyenv/versions/3.10.1/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_contextvars.cpython-310-darwin.so',
-   'EXTENSION'),
-  ('lib-dynload/_decimal',
-   '/Users/joseignacio/.pyenv/versions/3.10.1/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_decimal.cpython-310-darwin.so',
-   'EXTENSION'),
-  ('lib-dynload/_opcode',
-   '/Users/joseignacio/.pyenv/versions/3.10.1/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_opcode.cpython-310-darwin.so',
-   'EXTENSION'),
-  ('lib-dynload/_pickle',
-   '/Users/joseignacio/.pyenv/versions/3.10.1/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_pickle.cpython-310-darwin.so',
-   'EXTENSION'),
-  ('lib-dynload/_hashlib',
-   '/Users/joseignacio/.pyenv/versions/3.10.1/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_hashlib.cpython-310-darwin.so',
-   'EXTENSION'),
-  ('lib-dynload/_sha3',
-   '/Users/joseignacio/.pyenv/versions/3.10.1/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_sha3.cpython-310-darwin.so',
-   'EXTENSION'),
-  ('lib-dynload/_blake2',
-   '/Users/joseignacio/.pyenv/versions/3.10.1/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_blake2.cpython-310-darwin.so',
-   'EXTENSION'),
-  ('lib-dynload/_sha256',
-   '/Users/joseignacio/.pyenv/versions/3.10.1/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_sha256.cpython-310-darwin.so',
-   'EXTENSION'),
-  ('lib-dynload/_md5',
-   '/Users/joseignacio/.pyenv/versions/3.10.1/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_md5.cpython-310-darwin.so',
-   'EXTENSION'),
-  ('lib-dynload/_sha1',
-   '/Users/joseignacio/.pyenv/versions/3.10.1/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_sha1.cpython-310-darwin.so',
-   'EXTENSION'),
-  ('lib-dynload/_sha512',
-   '/Users/joseignacio/.pyenv/versions/3.10.1/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_sha512.cpython-310-darwin.so',
-   'EXTENSION'),
-  ('lib-dynload/_random',
-   '/Users/joseignacio/.pyenv/versions/3.10.1/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_random.cpython-310-darwin.so',
-   'EXTENSION'),
-  ('lib-dynload/_bisect',
-   '/Users/joseignacio/.pyenv/versions/3.10.1/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_bisect.cpython-310-darwin.so',
-   'EXTENSION'),
-  ('lib-dynload/unicodedata',
-   '/Users/joseignacio/.pyenv/versions/3.10.1/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/unicodedata.cpython-310-darwin.so',
-   'EXTENSION'),
-  ('lib-dynload/array',
-   '/Users/joseignacio/.pyenv/versions/3.10.1/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/array.cpython-310-darwin.so',
-   'EXTENSION'),
-  ('lib-dynload/select',
-   '/Users/joseignacio/.pyenv/versions/3.10.1/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/select.cpython-310-darwin.so',
-   'EXTENSION'),
-  ('lib-dynload/_socket',
-   '/Users/joseignacio/.pyenv/versions/3.10.1/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_socket.cpython-310-darwin.so',
-   'EXTENSION'),
-  ('lib-dynload/_csv',
-   '/Users/joseignacio/.pyenv/versions/3.10.1/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_csv.cpython-310-darwin.so',
-   'EXTENSION'),
-  ('lib-dynload/binascii',
-   '/Users/joseignacio/.pyenv/versions/3.10.1/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/binascii.cpython-310-darwin.so',
-   'EXTENSION'),
-  ('lib-dynload/grp',
-   '/Users/joseignacio/.pyenv/versions/3.10.1/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/grp.cpython-310-darwin.so',
-   'EXTENSION'),
-  ('lib-dynload/resource',
-   '/Users/joseignacio/.pyenv/versions/3.10.1/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/resource.cpython-310-darwin.so',
-   'EXTENSION'),
-  ('lib-dynload/_lzma',
-   '/Users/joseignacio/.pyenv/versions/3.10.1/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_lzma.cpython-310-darwin.so',
-   'EXTENSION'),
-  ('lib-dynload/_bz2',
-   '/Users/joseignacio/.pyenv/versions/3.10.1/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_bz2.cpython-310-darwin.so',
-   'EXTENSION'),
-  ('lib-dynload/pyexpat',
-   '/Users/joseignacio/.pyenv/versions/3.10.1/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/pyexpat.cpython-310-darwin.so',
-   'EXTENSION'),
-  ('lib-dynload/_scproxy',
-   '/Users/joseignacio/.pyenv/versions/3.10.1/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_scproxy.cpython-310-darwin.so',
-   'EXTENSION'),
-  ('lib-dynload/termios',
-   '/Users/joseignacio/.pyenv/versions/3.10.1/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/termios.cpython-310-darwin.so',
-   'EXTENSION'),
-  ('lib-dynload/_ssl',
-   '/Users/joseignacio/.pyenv/versions/3.10.1/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_ssl.cpython-310-darwin.so',
-   'EXTENSION'),
-  ('lib-dynload/_posixsubprocess',
-   '/Users/joseignacio/.pyenv/versions/3.10.1/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_posixsubprocess.cpython-310-darwin.so',
-   'EXTENSION'),
-  ('lib-dynload/mmap',
-   '/Users/joseignacio/.pyenv/versions/3.10.1/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/mmap.cpython-310-darwin.so',
-   'EXTENSION'),
-  ('lib-dynload/_ctypes',
-   '/Users/joseignacio/.pyenv/versions/3.10.1/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_ctypes.cpython-310-darwin.so',
-   'EXTENSION'),
-  ('lib-dynload/_queue',
-   '/Users/joseignacio/.pyenv/versions/3.10.1/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_queue.cpython-310-darwin.so',
-   'EXTENSION'),
-  ('lib-dynload/fcntl',
-   '/Users/joseignacio/.pyenv/versions/3.10.1/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/fcntl.cpython-310-darwin.so',
-   'EXTENSION'),
-  ('lib-dynload/_multibytecodec',
-   '/Users/joseignacio/.pyenv/versions/3.10.1/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_multibytecodec.cpython-310-darwin.so',
-   'EXTENSION'),
-  ('lib-dynload/_codecs_jp',
-   '/Users/joseignacio/.pyenv/versions/3.10.1/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_codecs_jp.cpython-310-darwin.so',
-   'EXTENSION'),
-  ('lib-dynload/_codecs_kr',
-   '/Users/joseignacio/.pyenv/versions/3.10.1/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_codecs_kr.cpython-310-darwin.so',
-   'EXTENSION'),
-  ('lib-dynload/_codecs_iso2022',
-   '/Users/joseignacio/.pyenv/versions/3.10.1/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_codecs_iso2022.cpython-310-darwin.so',
-   'EXTENSION'),
-  ('lib-dynload/_codecs_cn',
-   '/Users/joseignacio/.pyenv/versions/3.10.1/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_codecs_cn.cpython-310-darwin.so',
-   'EXTENSION'),
-  ('lib-dynload/_codecs_tw',
-   '/Users/joseignacio/.pyenv/versions/3.10.1/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_codecs_tw.cpython-310-darwin.so',
-   'EXTENSION'),
-  ('lib-dynload/_codecs_hk',
-   '/Users/joseignacio/.pyenv/versions/3.10.1/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_codecs_hk.cpython-310-darwin.so',
-   'EXTENSION'),
-  ('lib-dynload/_heapq',
-   '/Users/joseignacio/.pyenv/versions/3.10.1/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_heapq.cpython-310-darwin.so',
-   'EXTENSION'),
-  ('lib-dynload/readline',
-   '/Users/joseignacio/.pyenv/versions/3.10.1/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/readline.cpython-310-darwin.so',
-   'EXTENSION'),
-  ('lib-dynload/_uuid',
-   '/Users/joseignacio/.pyenv/versions/3.10.1/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_uuid.cpython-310-darwin.so',
-   'EXTENSION'),
-  ('lib-dynload/_json',
-   '/Users/joseignacio/.pyenv/versions/3.10.1/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_json.cpython-310-darwin.so',
-   'EXTENSION'),
-  ('lib-dynload/_asyncio',
-   '/Users/joseignacio/.pyenv/versions/3.10.1/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_asyncio.cpython-310-darwin.so',
-   'EXTENSION'),
+  ('_asyncio', 'C:\\Program Files\\Python310\\DLLs\\_asyncio.pyd', 'EXTENSION'),
   ('markupsafe._speedups',
-   '/Users/joseignacio/Library/Python/3.10/lib/python/site-packages/markupsafe/_speedups.cpython-310-darwin.so',
+   'C:\\Users\\nsole\\AppData\\Roaming\\Python\\Python310\\site-packages\\markupsafe\\_speedups.cp310-win_amd64.pyd',
    'EXTENSION'),
-  ('libcrypto.1.1.dylib',
-   '/usr/local/opt/openssl@1.1/lib/libcrypto.1.1.dylib',
+  ('libcrypto-1_1.dll',
+   'C:\\Program Files\\Python310\\DLLs\\libcrypto-1_1.dll',
    'BINARY'),
-  ('libssl.1.1.dylib',
-   '/usr/local/opt/openssl@1.1/lib/libssl.1.1.dylib',
+  ('libssl-1_1.dll',
+   'C:\\Program Files\\Python310\\DLLs\\libssl-1_1.dll',
    'BINARY'),
-  ('libreadline.8.dylib',
-   '/usr/local/opt/readline/lib/libreadline.8.dylib',
+  ('libffi-7.dll',
+   'C:\\Program Files\\Python310\\DLLs\\libffi-7.dll',
    'BINARY'),
   ('base_library.zip',
-   '/Users/joseignacio/Library/CloudStorage/OneDrive-UNIVERSIDADDELASFUERZASARMADASESPE/ESPE/Semestre '
-   '6/Interfaces y Multimedia/Actividades/Actividad '
-   '3/Codigo/Electron/jogotv/flaskApp/build/app/base_library.zip',
+   'C:\\Users\\nsole\\Desktop\\electron '
+   'jogotv\\JogoTV-Electron\\flaskApp\\build\\app\\base_library.zip',
    'DATA'),
-  ('static/.DS_Store',
-   '/Users/joseignacio/Library/CloudStorage/OneDrive-UNIVERSIDADDELASFUERZASARMADASESPE/ESPE/Semestre '
-   '6/Interfaces y Multimedia/Actividades/Actividad '
-   '3/Codigo/Electron/jogotv/flaskApp/static/.DS_Store',
+  ('static\\boton-volumen.png',
+   'C:\\Users\\nsole\\Desktop\\electron '
+   'jogotv\\JogoTV-Electron\\flaskApp\\static\\boton-volumen.png',
    'DATA'),
-  ('static/favicon.png',
-   '/Users/joseignacio/Library/CloudStorage/OneDrive-UNIVERSIDADDELASFUERZASARMADASESPE/ESPE/Semestre '
-   '6/Interfaces y Multimedia/Actividades/Actividad '
-   '3/Codigo/Electron/jogotv/flaskApp/static/favicon.png',
+  ('static\\te-gusta-jogotv.png',
+   'C:\\Users\\nsole\\Desktop\\electron '
+   'jogotv\\JogoTV-Electron\\flaskApp\\static\\te-gusta-jogotv.png',
    'DATA'),
-  ('templates/inicio.html',
-   '/Users/joseignacio/Library/CloudStorage/OneDrive-UNIVERSIDADDELASFUERZASARMADASESPE/ESPE/Semestre '
-   '6/Interfaces y Multimedia/Actividades/Actividad '
-   '3/Codigo/Electron/jogotv/flaskApp/templates/inicio.html',
+  ('static\\estrella-vacia.png',
+   'C:\\Users\\nsole\\Desktop\\electron '
+   'jogotv\\JogoTV-Electron\\flaskApp\\static\\estrella-vacia.png',
    'DATA'),
-  ('static/cargando.gif',
-   '/Users/joseignacio/Library/CloudStorage/OneDrive-UNIVERSIDADDELASFUERZASARMADASESPE/ESPE/Semestre '
-   '6/Interfaces y Multimedia/Actividades/Actividad '
-   '3/Codigo/Electron/jogotv/flaskApp/static/cargando.gif',
+  ('static\\feedback-fondo.png',
+   'C:\\Users\\nsole\\Desktop\\electron '
+   'jogotv\\JogoTV-Electron\\flaskApp\\static\\feedback-fondo.png',
    'DATA'),
-  ('static/calificanos.png',
-   '/Users/joseignacio/Library/CloudStorage/OneDrive-UNIVERSIDADDELASFUERZASARMADASESPE/ESPE/Semestre '
-   '6/Interfaces y Multimedia/Actividades/Actividad '
-   '3/Codigo/Electron/jogotv/flaskApp/static/calificanos.png',
+  ('static\\cargando100.gif',
+   'C:\\Users\\nsole\\Desktop\\electron '
+   'jogotv\\JogoTV-Electron\\flaskApp\\static\\cargando100.gif',
    'DATA'),
-  ('static/styles/estiloPadres.css',
-   '/Users/joseignacio/Library/CloudStorage/OneDrive-UNIVERSIDADDELASFUERZASARMADASESPE/ESPE/Semestre '
-   '6/Interfaces y Multimedia/Actividades/Actividad '
-   '3/Codigo/Electron/jogotv/flaskApp/static/styles/estiloPadres.css',
+  ('static\\feedback-incompleto.png',
+   'C:\\Users\\nsole\\Desktop\\electron '
+   'jogotv\\JogoTV-Electron\\flaskApp\\static\\feedback-incompleto.png',
    'DATA'),
-  ('static/menu-principal.mp3',
-   '/Users/joseignacio/Library/CloudStorage/OneDrive-UNIVERSIDADDELASFUERZASARMADASESPE/ESPE/Semestre '
-   '6/Interfaces y Multimedia/Actividades/Actividad '
-   '3/Codigo/Electron/jogotv/flaskApp/static/menu-principal.mp3',
+  ('static\\calificanos.png',
+   'C:\\Users\\nsole\\Desktop\\electron '
+   'jogotv\\JogoTV-Electron\\flaskApp\\static\\calificanos.png',
    'DATA'),
-  ('static/tarjeta-favoritos.png',
-   '/Users/joseignacio/Library/CloudStorage/OneDrive-UNIVERSIDADDELASFUERZASARMADASESPE/ESPE/Semestre '
-   '6/Interfaces y Multimedia/Actividades/Actividad '
-   '3/Codigo/Electron/jogotv/flaskApp/static/tarjeta-favoritos.png',
+  ('static\\inicio.gif',
+   'C:\\Users\\nsole\\Desktop\\electron '
+   'jogotv\\JogoTV-Electron\\flaskApp\\static\\inicio.gif',
    'DATA'),
-  ('static/fondoColores.png',
-   '/Users/joseignacio/Library/CloudStorage/OneDrive-UNIVERSIDADDELASFUERZASARMADASESPE/ESPE/Semestre '
-   '6/Interfaces y Multimedia/Actividades/Actividad '
-   '3/Codigo/Electron/jogotv/flaskApp/static/fondoColores.png',
+  ('static\\menu-principal.mp3',
+   'C:\\Users\\nsole\\Desktop\\electron '
+   'jogotv\\JogoTV-Electron\\flaskApp\\static\\menu-principal.mp3',
    'DATA'),
-  ('templates/feedback.html',
-   '/Users/joseignacio/Library/CloudStorage/OneDrive-UNIVERSIDADDELASFUERZASARMADASESPE/ESPE/Semestre '
-   '6/Interfaces y Multimedia/Actividades/Actividad '
-   '3/Codigo/Electron/jogotv/flaskApp/templates/feedback.html',
+  ('static\\tarjeta-historia.png',
+   'C:\\Users\\nsole\\Desktop\\electron '
+   'jogotv\\JogoTV-Electron\\flaskApp\\static\\tarjeta-historia.png',
    'DATA'),
-  ('static/tarjeta-deportes.png',
-   '/Users/joseignacio/Library/CloudStorage/OneDrive-UNIVERSIDADDELASFUERZASARMADASESPE/ESPE/Semestre '
-   '6/Interfaces y Multimedia/Actividades/Actividad '
-   '3/Codigo/Electron/jogotv/flaskApp/static/tarjeta-deportes.png',
+  ('static\\styles\\estiloInicio.css',
+   'C:\\Users\\nsole\\Desktop\\electron '
+   'jogotv\\JogoTV-Electron\\flaskApp\\static\\styles\\estiloInicio.css',
    'DATA'),
-  ('static/feedback-incompleto.png',
-   '/Users/joseignacio/Library/CloudStorage/OneDrive-UNIVERSIDADDELASFUERZASARMADASESPE/ESPE/Semestre '
-   '6/Interfaces y Multimedia/Actividades/Actividad '
-   '3/Codigo/Electron/jogotv/flaskApp/static/feedback-incompleto.png',
+  ('static\\demuestra.png',
+   'C:\\Users\\nsole\\Desktop\\electron '
+   'jogotv\\JogoTV-Electron\\flaskApp\\static\\demuestra.png',
    'DATA'),
-  ('static/boton-favoritos.png',
-   '/Users/joseignacio/Library/CloudStorage/OneDrive-UNIVERSIDADDELASFUERZASARMADASESPE/ESPE/Semestre '
-   '6/Interfaces y Multimedia/Actividades/Actividad '
-   '3/Codigo/Electron/jogotv/flaskApp/static/boton-favoritos.png',
+  ('static\\estrella-llena.png',
+   'C:\\Users\\nsole\\Desktop\\electron '
+   'jogotv\\JogoTV-Electron\\flaskApp\\static\\estrella-llena.png',
    'DATA'),
-  ('static/styles/estiloInicio.css',
-   '/Users/joseignacio/Library/CloudStorage/OneDrive-UNIVERSIDADDELASFUERZASARMADASESPE/ESPE/Semestre '
-   '6/Interfaces y Multimedia/Actividades/Actividad '
-   '3/Codigo/Electron/jogotv/flaskApp/static/styles/estiloInicio.css',
+  ('static\\tarjeta-arte.png',
+   'C:\\Users\\nsole\\Desktop\\electron '
+   'jogotv\\JogoTV-Electron\\flaskApp\\static\\tarjeta-arte.png',
    'DATA'),
-  ('static/te-gusta-jogotv.png',
-   '/Users/joseignacio/Library/CloudStorage/OneDrive-UNIVERSIDADDELASFUERZASARMADASESPE/ESPE/Semestre '
-   '6/Interfaces y Multimedia/Actividades/Actividad '
-   '3/Codigo/Electron/jogotv/flaskApp/static/te-gusta-jogotv.png',
+  ('templates\\reproductor.html',
+   'C:\\Users\\nsole\\Desktop\\electron '
+   'jogotv\\JogoTV-Electron\\flaskApp\\templates\\reproductor.html',
    'DATA'),
-  ('static/tele-marco.png',
-   '/Users/joseignacio/Library/CloudStorage/OneDrive-UNIVERSIDADDELASFUERZASARMADASESPE/ESPE/Semestre '
-   '6/Interfaces y Multimedia/Actividades/Actividad '
-   '3/Codigo/Electron/jogotv/flaskApp/static/tele-marco.png',
+  ('static\\like.mp3',
+   'C:\\Users\\nsole\\Desktop\\electron '
+   'jogotv\\JogoTV-Electron\\flaskApp\\static\\like.mp3',
    'DATA'),
-  ('static/favicon.ico',
-   '/Users/joseignacio/Library/CloudStorage/OneDrive-UNIVERSIDADDELASFUERZASARMADASESPE/ESPE/Semestre '
-   '6/Interfaces y Multimedia/Actividades/Actividad '
-   '3/Codigo/Electron/jogotv/flaskApp/static/favicon.ico',
+  ('static\\tarjeta-ciencia.png',
+   'C:\\Users\\nsole\\Desktop\\electron '
+   'jogotv\\JogoTV-Electron\\flaskApp\\static\\tarjeta-ciencia.png',
    'DATA'),
-  ('static/boton-feedback.png',
-   '/Users/joseignacio/Library/CloudStorage/OneDrive-UNIVERSIDADDELASFUERZASARMADASESPE/ESPE/Semestre '
-   '6/Interfaces y Multimedia/Actividades/Actividad '
-   '3/Codigo/Electron/jogotv/flaskApp/static/boton-feedback.png',
+  ('static\\boton-home.png',
+   'C:\\Users\\nsole\\Desktop\\electron '
+   'jogotv\\JogoTV-Electron\\flaskApp\\static\\boton-home.png',
    'DATA'),
-  ('static/like.mp3',
-   '/Users/joseignacio/Library/CloudStorage/OneDrive-UNIVERSIDADDELASFUERZASARMADASESPE/ESPE/Semestre '
-   '6/Interfaces y Multimedia/Actividades/Actividad '
-   '3/Codigo/Electron/jogotv/flaskApp/static/like.mp3',
+  ('static\\favoritos.mp3',
+   'C:\\Users\\nsole\\Desktop\\electron '
+   'jogotv\\JogoTV-Electron\\flaskApp\\static\\favoritos.mp3',
    'DATA'),
-  ('static/styles/estiloReproductor.css',
-   '/Users/joseignacio/Library/CloudStorage/OneDrive-UNIVERSIDADDELASFUERZASARMADASESPE/ESPE/Semestre '
-   '6/Interfaces y Multimedia/Actividades/Actividad '
-   '3/Codigo/Electron/jogotv/flaskApp/static/styles/estiloReproductor.css',
+  ('static\\feedback.gif',
+   'C:\\Users\\nsole\\Desktop\\electron '
+   'jogotv\\JogoTV-Electron\\flaskApp\\static\\feedback.gif',
    'DATA'),
-  ('static/JOGOTV-LOGO.png',
-   '/Users/joseignacio/Library/CloudStorage/OneDrive-UNIVERSIDADDELASFUERZASARMADASESPE/ESPE/Semestre '
-   '6/Interfaces y Multimedia/Actividades/Actividad '
-   '3/Codigo/Electron/jogotv/flaskApp/static/JOGOTV-LOGO.png',
+  ('static\\boton-aleatorio.png',
+   'C:\\Users\\nsole\\Desktop\\electron '
+   'jogotv\\JogoTV-Electron\\flaskApp\\static\\boton-aleatorio.png',
    'DATA'),
-  ('static/boton-ajustes.png',
-   '/Users/joseignacio/Library/CloudStorage/OneDrive-UNIVERSIDADDELASFUERZASARMADASESPE/ESPE/Semestre '
-   '6/Interfaces y Multimedia/Actividades/Actividad '
-   '3/Codigo/Electron/jogotv/flaskApp/static/boton-ajustes.png',
+  ('static\\feedback.mp3',
+   'C:\\Users\\nsole\\Desktop\\electron '
+   'jogotv\\JogoTV-Electron\\flaskApp\\static\\feedback.mp3',
    'DATA'),
-  ('static/boton-playpausa.png',
-   '/Users/joseignacio/Library/CloudStorage/OneDrive-UNIVERSIDADDELASFUERZASARMADASESPE/ESPE/Semestre '
-   '6/Interfaces y Multimedia/Actividades/Actividad '
-   '3/Codigo/Electron/jogotv/flaskApp/static/boton-playpausa.png',
+  ('static\\tarjeta-entretenimiento.png',
+   'C:\\Users\\nsole\\Desktop\\electron '
+   'jogotv\\JogoTV-Electron\\flaskApp\\static\\tarjeta-entretenimiento.png',
    'DATA'),
-  ('templates/padres.html',
-   '/Users/joseignacio/Library/CloudStorage/OneDrive-UNIVERSIDADDELASFUERZASARMADASESPE/ESPE/Semestre '
-   '6/Interfaces y Multimedia/Actividades/Actividad '
-   '3/Codigo/Electron/jogotv/flaskApp/templates/padres.html',
+  ('static\\styles\\estiloPadres.css',
+   'C:\\Users\\nsole\\Desktop\\electron '
+   'jogotv\\JogoTV-Electron\\flaskApp\\static\\styles\\estiloPadres.css',
    'DATA'),
-  ('static/inicio.gif',
-   '/Users/joseignacio/Library/CloudStorage/OneDrive-UNIVERSIDADDELASFUERZASARMADASESPE/ESPE/Semestre '
-   '6/Interfaces y Multimedia/Actividades/Actividad '
-   '3/Codigo/Electron/jogotv/flaskApp/static/inicio.gif',
+  ('static\\tarjeta-favoritos.png',
+   'C:\\Users\\nsole\\Desktop\\electron '
+   'jogotv\\JogoTV-Electron\\flaskApp\\static\\tarjeta-favoritos.png',
    'DATA'),
-  ('static/padres.png',
-   '/Users/joseignacio/Library/CloudStorage/OneDrive-UNIVERSIDADDELASFUERZASARMADASESPE/ESPE/Semestre '
-   '6/Interfaces y Multimedia/Actividades/Actividad '
-   '3/Codigo/Electron/jogotv/flaskApp/static/padres.png',
+  ('static\\JOGOTV-LOGO.png',
+   'C:\\Users\\nsole\\Desktop\\electron '
+   'jogotv\\JogoTV-Electron\\flaskApp\\static\\JOGOTV-LOGO.png',
    'DATA'),
-  ('static/demuestra.png',
-   '/Users/joseignacio/Library/CloudStorage/OneDrive-UNIVERSIDADDELASFUERZASARMADASESPE/ESPE/Semestre '
-   '6/Interfaces y Multimedia/Actividades/Actividad '
-   '3/Codigo/Electron/jogotv/flaskApp/static/demuestra.png',
+  ('static\\favicon.ico',
+   'C:\\Users\\nsole\\Desktop\\electron '
+   'jogotv\\JogoTV-Electron\\flaskApp\\static\\favicon.ico',
    'DATA'),
-  ('templates/.DS_Store',
-   '/Users/joseignacio/Library/CloudStorage/OneDrive-UNIVERSIDADDELASFUERZASARMADASESPE/ESPE/Semestre '
-   '6/Interfaces y Multimedia/Actividades/Actividad '
-   '3/Codigo/Electron/jogotv/flaskApp/templates/.DS_Store',
+  ('static\\cargando.gif',
+   'C:\\Users\\nsole\\Desktop\\electron '
+   'jogotv\\JogoTV-Electron\\flaskApp\\static\\cargando.gif',
    'DATA'),
-  ('static/tarjeta-arte.png',
-   '/Users/joseignacio/Library/CloudStorage/OneDrive-UNIVERSIDADDELASFUERZASARMADASESPE/ESPE/Semestre '
-   '6/Interfaces y Multimedia/Actividades/Actividad '
-   '3/Codigo/Electron/jogotv/flaskApp/static/tarjeta-arte.png',
+  ('static\\styles\\estiloFeedback.css',
+   'C:\\Users\\nsole\\Desktop\\electron '
+   'jogotv\\JogoTV-Electron\\flaskApp\\static\\styles\\estiloFeedback.css',
    'DATA'),
-  ('static/estrella-vacia.png',
-   '/Users/joseignacio/Library/CloudStorage/OneDrive-UNIVERSIDADDELASFUERZASARMADASESPE/ESPE/Semestre '
-   '6/Interfaces y Multimedia/Actividades/Actividad '
-   '3/Codigo/Electron/jogotv/flaskApp/static/estrella-vacia.png',
+  ('templates\\inicio.html',
+   'C:\\Users\\nsole\\Desktop\\electron '
+   'jogotv\\JogoTV-Electron\\flaskApp\\templates\\inicio.html',
    'DATA'),
-  ('static/intro-jogotv.gif',
-   '/Users/joseignacio/Library/CloudStorage/OneDrive-UNIVERSIDADDELASFUERZASARMADASESPE/ESPE/Semestre '
-   '6/Interfaces y Multimedia/Actividades/Actividad '
-   '3/Codigo/Electron/jogotv/flaskApp/static/intro-jogotv.gif',
+  ('static\\fondoColores.png',
+   'C:\\Users\\nsole\\Desktop\\electron '
+   'jogotv\\JogoTV-Electron\\flaskApp\\static\\fondoColores.png',
    'DATA'),
-  ('static/feedback.gif',
-   '/Users/joseignacio/Library/CloudStorage/OneDrive-UNIVERSIDADDELASFUERZASARMADASESPE/ESPE/Semestre '
-   '6/Interfaces y Multimedia/Actividades/Actividad '
-   '3/Codigo/Electron/jogotv/flaskApp/static/feedback.gif',
+  ('static\\padres.png',
+   'C:\\Users\\nsole\\Desktop\\electron '
+   'jogotv\\JogoTV-Electron\\flaskApp\\static\\padres.png',
    'DATA'),
-  ('static/tarjeta-entretenimiento.png',
-   '/Users/joseignacio/Library/CloudStorage/OneDrive-UNIVERSIDADDELASFUERZASARMADASESPE/ESPE/Semestre '
-   '6/Interfaces y Multimedia/Actividades/Actividad '
-   '3/Codigo/Electron/jogotv/flaskApp/static/tarjeta-entretenimiento.png',
+  ('static\\boton-feedback.png',
+   'C:\\Users\\nsole\\Desktop\\electron '
+   'jogotv\\JogoTV-Electron\\flaskApp\\static\\boton-feedback.png',
    'DATA'),
-  ('static/feedback-fondo.png',
-   '/Users/joseignacio/Library/CloudStorage/OneDrive-UNIVERSIDADDELASFUERZASARMADASESPE/ESPE/Semestre '
-   '6/Interfaces y Multimedia/Actividades/Actividad '
-   '3/Codigo/Electron/jogotv/flaskApp/static/feedback-fondo.png',
+  ('static\\boton-ajustes.png',
+   'C:\\Users\\nsole\\Desktop\\electron '
+   'jogotv\\JogoTV-Electron\\flaskApp\\static\\boton-ajustes.png',
    'DATA'),
-  ('static/tarjeta-ciencia.png',
-   '/Users/joseignacio/Library/CloudStorage/OneDrive-UNIVERSIDADDELASFUERZASARMADASESPE/ESPE/Semestre '
-   '6/Interfaces y Multimedia/Actividades/Actividad '
-   '3/Codigo/Electron/jogotv/flaskApp/static/tarjeta-ciencia.png',
+  ('static\\tarjeta-deportes.png',
+   'C:\\Users\\nsole\\Desktop\\electron '
+   'jogotv\\JogoTV-Electron\\flaskApp\\static\\tarjeta-deportes.png',
    'DATA'),
-  ('static/styles/estiloFeedback.css',
-   '/Users/joseignacio/Library/CloudStorage/OneDrive-UNIVERSIDADDELASFUERZASARMADASESPE/ESPE/Semestre '
-   '6/Interfaces y Multimedia/Actividades/Actividad '
-   '3/Codigo/Electron/jogotv/flaskApp/static/styles/estiloFeedback.css',
+  ('static\\styles\\estiloReproductor.css',
+   'C:\\Users\\nsole\\Desktop\\electron '
+   'jogotv\\JogoTV-Electron\\flaskApp\\static\\styles\\estiloReproductor.css',
    'DATA'),
-  ('static/boton-volumen.png',
-   '/Users/joseignacio/Library/CloudStorage/OneDrive-UNIVERSIDADDELASFUERZASARMADASESPE/ESPE/Semestre '
-   '6/Interfaces y Multimedia/Actividades/Actividad '
-   '3/Codigo/Electron/jogotv/flaskApp/static/boton-volumen.png',
+  ('static\\boton-favoritos.png',
+   'C:\\Users\\nsole\\Desktop\\electron '
+   'jogotv\\JogoTV-Electron\\flaskApp\\static\\boton-favoritos.png',
    'DATA'),
-  ('static/cargando100.gif',
-   '/Users/joseignacio/Library/CloudStorage/OneDrive-UNIVERSIDADDELASFUERZASARMADASESPE/ESPE/Semestre '
-   '6/Interfaces y Multimedia/Actividades/Actividad '
-   '3/Codigo/Electron/jogotv/flaskApp/static/cargando100.gif',
+  ('templates\\padres.html',
+   'C:\\Users\\nsole\\Desktop\\electron '
+   'jogotv\\JogoTV-Electron\\flaskApp\\templates\\padres.html',
    'DATA'),
-  ('static/boton-home.png',
-   '/Users/joseignacio/Library/CloudStorage/OneDrive-UNIVERSIDADDELASFUERZASARMADASESPE/ESPE/Semestre '
-   '6/Interfaces y Multimedia/Actividades/Actividad '
-   '3/Codigo/Electron/jogotv/flaskApp/static/boton-home.png',
+  ('static\\tele-marco.png',
+   'C:\\Users\\nsole\\Desktop\\electron '
+   'jogotv\\JogoTV-Electron\\flaskApp\\static\\tele-marco.png',
    'DATA'),
-  ('static/estrella-llena.png',
-   '/Users/joseignacio/Library/CloudStorage/OneDrive-UNIVERSIDADDELASFUERZASARMADASESPE/ESPE/Semestre '
-   '6/Interfaces y Multimedia/Actividades/Actividad '
-   '3/Codigo/Electron/jogotv/flaskApp/static/estrella-llena.png',
+  ('static\\boton-playpausa.png',
+   'C:\\Users\\nsole\\Desktop\\electron '
+   'jogotv\\JogoTV-Electron\\flaskApp\\static\\boton-playpausa.png',
    'DATA'),
-  ('static/favoritos.mp3',
-   '/Users/joseignacio/Library/CloudStorage/OneDrive-UNIVERSIDADDELASFUERZASARMADASESPE/ESPE/Semestre '
-   '6/Interfaces y Multimedia/Actividades/Actividad '
-   '3/Codigo/Electron/jogotv/flaskApp/static/favoritos.mp3',
+  ('static\\intro-jogotv.gif',
+   'C:\\Users\\nsole\\Desktop\\electron '
+   'jogotv\\JogoTV-Electron\\flaskApp\\static\\intro-jogotv.gif',
    'DATA'),
-  ('static/boton-aleatorio.png',
-   '/Users/joseignacio/Library/CloudStorage/OneDrive-UNIVERSIDADDELASFUERZASARMADASESPE/ESPE/Semestre '
-   '6/Interfaces y Multimedia/Actividades/Actividad '
-   '3/Codigo/Electron/jogotv/flaskApp/static/boton-aleatorio.png',
+  ('static\\favicon.png',
+   'C:\\Users\\nsole\\Desktop\\electron '
+   'jogotv\\JogoTV-Electron\\flaskApp\\static\\favicon.png',
    'DATA'),
-  ('static/feedback.mp3',
-   '/Users/joseignacio/Library/CloudStorage/OneDrive-UNIVERSIDADDELASFUERZASARMADASESPE/ESPE/Semestre '
-   '6/Interfaces y Multimedia/Actividades/Actividad '
-   '3/Codigo/Electron/jogotv/flaskApp/static/feedback.mp3',
-   'DATA'),
-  ('templates/reproductor.html',
-   '/Users/joseignacio/Library/CloudStorage/OneDrive-UNIVERSIDADDELASFUERZASARMADASESPE/ESPE/Semestre '
-   '6/Interfaces y Multimedia/Actividades/Actividad '
-   '3/Codigo/Electron/jogotv/flaskApp/templates/reproductor.html',
-   'DATA'),
-  ('static/tarjeta-historia.png',
-   '/Users/joseignacio/Library/CloudStorage/OneDrive-UNIVERSIDADDELASFUERZASARMADASESPE/ESPE/Semestre '
-   '6/Interfaces y Multimedia/Actividades/Actividad '
-   '3/Codigo/Electron/jogotv/flaskApp/static/tarjeta-historia.png',
+  ('templates\\feedback.html',
+   'C:\\Users\\nsole\\Desktop\\electron '
+   'jogotv\\JogoTV-Electron\\flaskApp\\templates\\feedback.html',
    'DATA')],
  [],
  False,
  False,
- 1658967283,
- [('runw',
-   '/Users/joseignacio/Library/Python/3.10/lib/python/site-packages/PyInstaller/bootloader/Darwin-64bit/runw',
+ 1658973080,
+ [('runw.exe',
+   'C:\\Users\\nsole\\AppData\\Roaming\\Python\\Python310\\site-packages\\PyInstaller\\bootloader\\Windows-64bit\\runw.exe',
    'EXECUTABLE')])

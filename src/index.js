@@ -8,7 +8,15 @@ if (require('electron-squirrel-startup')) {
 }
 
 let backend;
-backend = path.join(process.cwd(), './flaskApp/dist/app')
+
+// ejecutable flask depende del SO
+if (process.platform == 'darwin'){
+  backend = path.join(process.cwd(), './flaskApp/dist/app')
+}
+if (process.platform == 'win32'){
+  backend = path.join(process.cwd(), './flaskApp/dist/app.exe')
+}
+
 
 var execfile = require('child_process').execFile;
 
