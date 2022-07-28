@@ -1,0 +1,5 @@
+([('app',
+   '/Users/joseignacio/Library/CloudStorage/OneDrive-UNIVERSIDADDELASFUERZASARMADASESPE/ESPE/Semestre '
+   '6/Interfaces y Multimedia/Actividades/Actividad '
+   '3/Codigo/Electron/jogotv/flaskApp/dist/app',
+   'EXECUTABLE')],)
